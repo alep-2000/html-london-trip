@@ -1,0 +1,21 @@
+h1{
+    font-family: Snell Roundhand, cursive;
+    color: #4682B4;
+    text-align: center;
+    font-size: 80px;
+}
+
+.img_1{
+    width: 200px;
+    height: 200px;
+    
+}
+
+#img{
+    margin-left: 600px;
+}
+
+.line{
+    margin-left: 200px;
+    margin-right: 200px;
+}
