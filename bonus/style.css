@@ -1,3 +1,7 @@
+body{
+    background-color: lightgrey;
+}
+
 h1{
     font-family: Snell Roundhand, cursive;
     color: #4682B4;
@@ -68,4 +72,14 @@ h1{
 .line_3{
     margin-left: 90px;
     margin-right: 90px;
+}
+
+.subtitle_4{
+    text-align: center;
+    font-size: 35px;
+    color: #1F75FE;
+}
+
+.img_2{
+    margin-left: 370px;
 }
