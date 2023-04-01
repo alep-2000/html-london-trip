@@ -19,3 +19,25 @@ h1{
     margin-left: 200px;
     margin-right: 200px;
 }
+
+.subtitle_1{
+    margin-left: 200px;
+    color: #40E0D0;
+}
+
+.table{
+    margin-left: 200px;
+}
+
+.riga_1{
+    background-color: #4682B4;
+}
+
+.total{
+    background-color: #E52B50;
+}
+
+.line_2{
+    margin-left: 160px;
+    margin-right: 160px;
+}
